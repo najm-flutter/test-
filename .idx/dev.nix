@@ -24,11 +24,7 @@
           id = "web";
           manager = "flutter";
         }
-        {
-          command = ["flutter" "run" "--machine" "-d" "android" "-d" "localhost:5555"];
-          id = "android";
-          manager = "flutter";
-        }
+       
       ];
     };
   };
