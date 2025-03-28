@@ -1,16 +1,3 @@
-# myapp
+السنوار : 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+في ظل زمن أصبح فيه السواد الأعظم من الناس عبيدا لملذات الحياة وشهواتها,منقادين نحو عالم من الذل والهوان والخضوع, راضين بمصيرهم المحتوم أن يكونوا تحت رحمة من أوصلهم لهذا العار, ومن بين كل هذا الظلام, برز رجال من أكناف بيت المقدس نذروا أنفسهم لكرامة هذه الأمة الضائع ,  مؤمنين بعدالة قضيتهم، وماضين بثبات في طريق التضحية والفداء ,باعثين لنا أملا قد كان ضاع فينا , رجال صدقوا ما عاهدوا الله عليه ,ومن بين هؤلاء الرجال القائد والمناضل والمجاهد  الشهيد المغفور له بإذن الله  إبراهيم يحيى السنوار.
